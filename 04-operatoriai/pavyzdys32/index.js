@@ -25,11 +25,20 @@ const readPermission = 4; // 00000100
 const writePermission = 2; // 00000010
 const executePermission = 1; // 00000001
 
+// 00000100
+// 00000010
+// 00000001
+
 let myPermision = 0;
 myPermision = myPermision | readPermission | writePermission;
 
 console.log(myPermision);
 
-let message = (myPermision && readPermission) ? 'yes' : 'no';
+let message = myPermision & readPermission ? "yes" : "no";
 
-console.log('read permision: ' + message);
+console.log("read permision: " + message);
+
+// 00000111 - all permissions
+// 00000100
+
+// 00000100
