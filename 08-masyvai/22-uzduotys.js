@@ -1,8 +1,8 @@
 /* Susikurkite skaičių masyvą.
-Su every funkcija gaukite:
-- Visus teigiamus skaičius.
-- Visus lyginius skaičius.
-- Visus neigiamus ir lyginius skaičius.
+Su every funkcija patikrinkite ar masyve:
+- visi skaičiai yra teigiami
+- visi skaičiai lyginiai
+- visi skaičiai neigiami
 Patikrinkite ar masyvas turi bent vieną:
 - teigiamą skaičių
 - neigiamą skaičių
