@@ -20,4 +20,5 @@ const atLeastOnePositive = numbers2.some(function(value) {
 
 console.log(atLeastOnePositive);
 
-// every() and some() are new in javascript so some older browsers doesn't support them
+// every() and some() are new in javascript so some older browsers
+// doesn't support them
