@@ -42,3 +42,12 @@ Padarykite html'inę lentelę iš visų turimų duomenų.
 Nepamirškite padaryti ir lentelės header, kad būtų galima
 suprasti kuris stulpelis ką reprezentuoja.
 */
+
+
+
+/* Iš turimo automobilių masyvo atrinkite:
+- visus naujesnius nei 2000-ųjų metų
+- visus kurių darbinis tūris mažesnis nei 1.6
+Surikiuokite pagal metus senėjimo tvarka.
+Sumapinkite gautus rezultatus į naują lentelę.
+*/
