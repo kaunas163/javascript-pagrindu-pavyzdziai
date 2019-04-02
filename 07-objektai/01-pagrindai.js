@@ -21,3 +21,24 @@ let circle = {
 
 console.log(circle);
 circle.draw();
+
+// object literal {}
+let skiepai = {
+    tymai: true,
+    abortoLiekanos: true,
+    antivaxer: 'dead',
+    reitingas: 0,
+    inject: function() {
+        this.tymai = false;
+        this.reitingas++;
+    },
+    dummy() {
+        console.log('some text');
+    },
+    inject: function() {
+        console.log('other inject');
+    }
+};
+
+skiepai.inject();
+console.log(skiepai);

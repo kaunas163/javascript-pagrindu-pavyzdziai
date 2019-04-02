@@ -7,7 +7,8 @@
 - Pažymiai
 
 Pažymiai iš pradžių yra tuščias array.
-Faktoriaus funkcija taip pat turi sukurkti metodą, kuris leistų įrašyti naujų pažymių.
+Faktoriaus funkcija taip pat turi sukurkti metodą, kuris leistų įrašyti
+naujų pažymių.
 
 Faktoriaus funkcija turi sukurti studento išvedimo metodą.
 

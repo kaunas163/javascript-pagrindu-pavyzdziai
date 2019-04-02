@@ -22,6 +22,9 @@ for (let key of Object.keys(circleToIterate)) {
     console.log(key);
 }
 
+console.log(Object.keys(circleToIterate));
+console.log(Object.entries(circleToIterate));
+
 for (let entry of Object.entries(circleToIterate)) {
     console.log(entry);
 }
