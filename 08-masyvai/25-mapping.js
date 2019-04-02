@@ -1,6 +1,7 @@
 const numbers = [1, 2, 3, 4];
 
 const items = numbers.map(n => '<li>' + n + '</li>');
+console.log(items);
 const html = '<ul>' + items.join('') + '</ul>';
 console.log(html);
 
