@@ -5,6 +5,15 @@ modulių objektus, kurie susidaro iš šių duomenų:
 - Kreditų skaičius
 - Studentų skaičius
 - Vedimo kalba (lt/en/...)
-Raskite:
-- 
+Raskite ir išveskite pilną informaciją apie šiuos objektus:
+- Matematikos modulį.
+- Programavimo modulį.
+- Modulį, kuris sudarytas iš daugiau nei 6 kreditų.
+- Modulį, kuris sudarytas iš 3 kreditų.
+- Modulį, kuriame mokosi daugiau nei 100 studentų.
+- Modulį, kuriame mokosi lygiai 20 studentų.
+Raskite pozicijas šių modulių:
+- Fizikos modulio.
+- Kuriame modulyje studentų yra mažiau nei 10.
+- Vedimo kalba yra anglų.
 */
