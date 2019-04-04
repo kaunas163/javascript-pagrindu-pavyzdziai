@@ -1,5 +1,6 @@
 let x = 0;
 var y = 0;
+const z = 0;
 
 // first issue - block/function scope
 
