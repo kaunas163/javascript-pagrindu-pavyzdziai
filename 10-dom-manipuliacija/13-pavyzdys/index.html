@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="pakeisti('tekstas', 'vienas du trys')">Pakeisti tekstą 1</button>
+    <button onclick="pakeisti('tekstas', 'batai kupranugaris meska')">Pakeisti tekstą 2</button>
+    <button onclick="pakeisti('tekstas', 'stalas kede medis')">Pakeisti tekstą 3</button>
+    <button onclick="pakeisti('tekstas', 'berzas obelis gyvate')">Pakeisti tekstą 4</button>
+    <br>
+
+    <p id="tekstas">Rerum magnam libero nesciunt fugiat saepe voluptates omnis necessitatibus repellendus!</p>
+
+    <script>
+        function pakeisti(elementas, tekstas) {
+            document.getElementById(elementas).innerHTML = tekstas;
+        }
+    </script>
+</body>
+</html>
